@@ -1,0 +1,4 @@
+This project involved a comprehensive analysis of the Superstore(1) dataset to uncover key business insights and improve overall profitability. Tableau was used to develop interactive dashboards that highlight key performance indicators (KPIs), year-over-year (YoY) growth over a four-year period, and monthly sales trends. The dashboard also showcases top-performing products and allows users to filter data by specific years for more detailed analysis.
+
+In parallel, Jupyter Notebook was utilized to conduct a more in-depth analysis of the dataset. The primary objective was to identify opportunities to increase profitability by analyzing both high-performing segments and underperforming or unprofitable products. This analysis revealed areas such as excessive discounting and category-level inefficiencies, offering data-driven recommendations for improving financial performance.
+
