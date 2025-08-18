@@ -61,7 +61,5 @@ By combining data analysis with visualization, this project demonstrates how dat
    jupyter notebook Superstore_Analysis.ipynb
    ```  
 2. Open the dataset (`Superstore(1).xlsx`) if you want to explore or reload data.  
-3. Explore the Tableau Dashboard screenshot (`US_Superstore_Dashboard.png`) for visual insights.  
-   - If you’d like to interact with the dashboard, you can rebuild it in **Tableau Desktop** using the provided dataset.
-4. Interacting with the dashboard
+3. Interacting with the dashboard
    - Kaggle link: https://public.tableau.com/app/profile/jil.patel4324/vizzes 
