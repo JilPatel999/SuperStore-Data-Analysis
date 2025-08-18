@@ -63,11 +63,3 @@ By combining data analysis with visualization, this project demonstrates how dat
 2. Open the dataset (`Superstore(1).xlsx`) if you want to explore or reload data.  
 3. Explore the Tableau Dashboard screenshot (`US_Superstore_Dashboard.png`) for visual insights.  
    - If you’d like to interact with the dashboard, you can rebuild it in **Tableau Desktop** using the provided dataset.  
-
----
-
-## 📌 Use Case  
-This project is designed as a **portfolio project** for data analysis. It demonstrates:  
-- Combining Python-based EDA with professional BI visualization tools.  
-- Extracting insights from retail sales data.  
-- Communicating results through dashboards and storytelling.  
