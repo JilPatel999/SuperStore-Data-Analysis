@@ -62,4 +62,4 @@ By combining data analysis with visualization, this project demonstrates how dat
    ```  
 2. Open the dataset (`Superstore(1).xlsx`) if you want to explore or reload data.  
 3. Interacting with the dashboard
-   - Kaggle link: https://public.tableau.com/app/profile/jil.patel4324/vizzes 
+   - Tableau Public link: https://public.tableau.com/app/profile/jil.patel4324/vizzes 
